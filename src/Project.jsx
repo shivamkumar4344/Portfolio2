@@ -135,7 +135,7 @@ export default function Projects() {
             img: [P2img1, P2img2, P2img3],
             heading: "To Do Master App",
             live: "https://to-do-master-main.vercel.app/",
-            github: "https://github.com/Abhay-Bharti/ToDoMaster",
+            github: "https://github.com/shivamkumar4344/Notes_App_MERN",
             description: 'The app features functionalities are task creation, updating, and deletion, allowing users to organize their tasks effortlessly.Additionally, it includes user profile creation, updating, and deletion, ensuring users can securely manage their profiles.I created a seamless and user-friendly application that provides a reliable platform for managing both user information and tasks.',
             tech: ["MongoDb", "Express.Js", "Node.Js", "React.Js"]
         },
@@ -149,7 +149,7 @@ export default function Projects() {
         },
         {
             img: [P3img1, P3img2, P3img3, P3img4, P3img5],
-            heading: "Agriter: Agri-Tourism",
+            heading: "Daily Blog: A News Website",
             live: "https://abhay-bharti.github.io/Agriter/1",
             github: "https://github.com/shivamkumar4344/DailyBlog-News-Website",
             description: "Daily Blog is a modern news website built with HTML, CSS, JavaScript, jQuery, and Bootstrap.It offers a clean, responsive, and user-friendly interface for a smooth reading experience.The website features dynamic content loading and interactive elements for better engagement.Bootstrap ensures mobile responsiveness, making it accessible across all devices.Daily Blog delivers the latest news efficiently with a focus on design and performance.",
