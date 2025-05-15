@@ -28,9 +28,9 @@ export default function MainScreen() {
                             }}
                         />
                     </p>
-                    <h1 className="mainscreen-head">Shivam Kumar</h1>
+                    <h1 className="mainscreen-head">Deepak Kumar</h1>
                     <p className="mainscreen-subhead">I am a passionate Full Stack Developer with a knack for creating responsive, dynamic web applications. With solid experience in full-stack development, UI/UX design, and problem-solving, I bring ideas to life through clean, efficient code. My portfolio showcases innovative projects that blend functionality with creativity, reflecting my commitment to quality, performance, and user-centric design.</p>
-                    <Button href="https://drive.google.com/file/d/13KqXnePfPrkMfDtBwFAvI6Zr78-OBwaK/view?usp=drive_link" target="__blank" variant="outline-light" className="me-4 rounded">Resume</Button>
+                    <Button target="__blank" variant="outline-light" className="me-4 rounded">Resume</Button>
                     
                 </div>
                 <div className={`mainscreen-img ${!imageLoaded ? 'loading' : ''}`}>

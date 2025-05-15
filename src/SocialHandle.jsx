@@ -11,13 +11,13 @@ export default function SocialHandle() {
         <Container className='p-3 social-handle'>
             <div className="d-flex flex-sm-column justify-content-center align-items-center">
                 <div className="col">
-                    <a href="https://www.linkedin.com/in/shivamkumar10/" target='__blank'><LinkedInIcon style={{ fontSize: "40px", color: " #fff" }} /></a>
+                    <a href="https://www.linkedin.com/in/deepakkumarlpu/" target='__blank'><LinkedInIcon style={{ fontSize: "40px", color: " #fff" }} /></a>
                 </div>
                 <div className="col">
-                    <a href="mailto:ydvshivam10@gmail.com"><EmailIcon style={{ fontSize: "40px", color: " #fff" }} /></a>
+                    <a href="mailto:krdeepak0205@gmail.com"><EmailIcon style={{ fontSize: "40px", color: " #fff" }} /></a>
                 </div>
                 <div className="col">
-                    <a href="https://github.com/shivamkumar4344" target='_blank' ><GitHubIcon style={{ fontSize: "40px", color: " #fff" }}  /></a>
+                    <a href="https://github.com/Deepakku" target='_blank' ><GitHubIcon style={{ fontSize: "40px", color: " #fff" }}  /></a>
                 </div>
                 {/* <div className="col">
                     <a href="https://www.instagram.com/abhay_bhartii/" target='_blank' ><InstagramIcon style={{ fontSize: "40px", color: " #fff" }}  /></a>
